@@ -1,2 +1,2 @@
 # HCIRoadmap
-This is the roadmap to understand Human-Computer Interaction (HCI).
+This is the roadmap helps you to start learning Human-Computer Interaction (HCI).
