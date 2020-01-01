@@ -8,8 +8,8 @@ The roadmap is made with [Miro](http://www.miro.com).
 
 🚧 This project is still under construction. If you have any suggestions, don't hesitate to talk with me.
 ## Table of content
-- [The roadmap](##The-roadmap)
-- [Descriptions of concepts](##Descriptions-of-concepts)
+- [The roadmap](#The-roadmap)
+- [Descriptions of concepts](#Descriptions-of-concepts)
 
 ## The roadmap
 ![hci-roadmap](https://github.com/imyuanwen/HCI-roadmap/blob/master/hciroadmap.jpg?raw=true)
