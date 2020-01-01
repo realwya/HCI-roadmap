@@ -7,7 +7,12 @@ I made this roadmap as a summary of what I've learned about HCI in the past few 
 The roadmap is made with [Miro](http://www.miro.com).
 
 🚧 This project is still under construction. If you have any suggestions, don't hesitate to talk with me.
+## 🔍Table of content
+- [The roadmap](##The%20roadmap)
+- [Descriptions of concepts](##Descriptions%20of%20concepts)
 
+## The roadmap
 ![hci-roadmap](https://github.com/imyuanwen/HCI-roadmap/blob/master/hciroadmap.jpg?raw=true)
 
+## Descriptions of concepts
 
