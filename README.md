@@ -8,6 +8,6 @@ The roadmap is made with [Miro](http://www.miro.com).
 
 🚧 This project is still under construction. If you have any suggestions, don't hesitate to talk with me.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ed3a840e-956c-4c98-a334-44d450453225/hciroadmap.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ed3a840e-956c-4c98-a334-44d450453225/hciroadmap.jpg)
+![hci-roadmap](https://github.com/imyuanwen/HCI-roadmap/blob/master/hciroadmap.jpg?raw=true)
 
 HCI roadmap
