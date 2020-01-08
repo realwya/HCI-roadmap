@@ -15,4 +15,6 @@ The roadmap is made with [Miro](http://www.miro.com).
 ![hci-roadmap](https://github.com/imyuanwen/HCI-roadmap/blob/master/hciroadmap.jpg?raw=true)
 
 ## Descriptions of concepts
+### What is Human-Computer Interaction?
 
+> Human–computer interaction (HCI) researches the design and use of computer technology, focused on the interfaces between people (users) and computers. Researchers in the field of HCI observe the ways in which humans interact with computers and design technologies that let humans interact with computers in novel ways. (From [Wikipedia](https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction))
