@@ -7,11 +7,14 @@ I made this roadmap as a summary of what I've learned about HCI in the past few 
 The roadmap is made with [Miro](http://www.miro.com).
 
 🚧 This project is still under construction. If you have any suggestions, don't hesitate to talk with me.
+
 ## Table of content
+
 - [The roadmap](#The-roadmap)
 - [What is Human-Computer Interaction](#What-is-Human-Computer-Interaction)
 
 ## The roadmap
+
 ![hci-roadmap](https://github.com/imyuanwen/HCI-roadmap/blob/master/hciroadmap.jpg?raw=true)
 
 ## What is Human-Computer Interaction
@@ -26,4 +29,7 @@ HCI is more academic-based and focuses more on research. UX design is more indus
 
 ## Human's ability
 
-1. Perception and sensation
+### Perception and sensation
+
+To represent the world, we must first detect physical energy (a stimulus) from the environment and convert it into neural signals. This is a process called **sensation**.
+When we select, organize, and interpret our sensations, this process is called **perception**.
