@@ -18,3 +18,13 @@ The roadmap is made with [Miro](http://www.miro.com).
 ### What is Human-Computer Interaction?
 
 > Human–computer interaction (HCI) researches the design and use of computer technology, focused on the interfaces between people (users) and computers. Researchers in the field of HCI observe the ways in which humans interact with computers and design technologies that let humans interact with computers in novel ways. (From [Wikipedia](https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction))
+
+Recommended article: [https://www.interaction-design.org/literature/topics/human-computer-interaction](https://www.interaction-design.org/literature/topics/human-computer-interaction)
+
+### What's the difference between HCI and UX design?
+
+HCI is more academic-based and focuses more on research. UX design is more industry-based and focuses more on practice. While HCI focuses more on understanding the interaction between human and computers through research, UX design focuses more on dictating the rules about how to design a great user experience.
+
+### Human's ability
+
+1. Perception and sensation
